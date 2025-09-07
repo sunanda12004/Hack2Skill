@@ -60,7 +60,7 @@ function App() {
           {/* RightImage */}
           <div className="flex justify-center mt-6 md:mt-0">
             <img
-              src="/public/councilling.png"
+              src="/councilling.png"
               alt="BetterYou"
               className="max-h-[300px] sm:max-h-[350px] object-contain"
             />
