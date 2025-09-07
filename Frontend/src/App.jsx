@@ -20,6 +20,7 @@ function App() {
     {
       title: "Journaling",
       text: "Each page of a journal is a step toward healing and self discovery",
+      img: "/Journaling.png",
     },
   ];
 
@@ -59,7 +60,7 @@ function App() {
           {/* RightImage */}
           <div className="flex justify-center mt-6 md:mt-0">
             <img
-              src="/councilling.png"
+              src="/public/councilling.png"
               alt="BetterYou"
               className="max-h-[300px] sm:max-h-[350px] object-contain"
             />
