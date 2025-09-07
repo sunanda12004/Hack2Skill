@@ -5,7 +5,7 @@ function App() {
     {
       title: "Councelling",
       text: "It is not weakness, it is the wisdom of choosing healing",
-      img: "/councilling.png",
+      img: "/councilling2.png",
     },
     {
       title: "Meditation",
